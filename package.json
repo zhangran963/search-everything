@@ -17,6 +17,10 @@
       {
         "command": "extension.searchChineseCharacters",
         "title": "Search Chinese Characters"
+      },
+      {
+        "command": "extension.searchMDN",
+        "title": "Search some api in MDN"
       }
     ]
   },
