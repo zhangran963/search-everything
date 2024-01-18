@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "search-everything.helloWorld",
-        "title": "Hello World"
+        "command": "extension.searchChineseCharacters",
+        "title": "Search Chinese Characters"
       }
     ]
   },
